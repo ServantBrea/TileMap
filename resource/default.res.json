@@ -1,0 +1,150 @@
+{
+	"groups": [
+		{
+			"keys": "d4_png,d5_png,d6_png,l1_png,l2_png,l3_png,l4_png,l5_png,l6_png,r1_png,r2_png,r3_png,r4_png,r5_png,r6_png,u1_png,u2_png,u3_png,u4_png,u5_png,u6_png,d1_png,d2_png,d3_png,grass_png,ground_jpg,water_png,wall_png",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"url": "assets/d4.png",
+			"type": "image",
+			"name": "d4_png"
+		},
+		{
+			"url": "assets/d5.png",
+			"type": "image",
+			"name": "d5_png"
+		},
+		{
+			"url": "assets/d6.png",
+			"type": "image",
+			"name": "d6_png"
+		},
+		{
+			"url": "assets/l1.png",
+			"type": "image",
+			"name": "l1_png"
+		},
+		{
+			"url": "assets/l2.png",
+			"type": "image",
+			"name": "l2_png"
+		},
+		{
+			"url": "assets/l3.png",
+			"type": "image",
+			"name": "l3_png"
+		},
+		{
+			"url": "assets/l4.png",
+			"type": "image",
+			"name": "l4_png"
+		},
+		{
+			"url": "assets/l5.png",
+			"type": "image",
+			"name": "l5_png"
+		},
+		{
+			"url": "assets/l6.png",
+			"type": "image",
+			"name": "l6_png"
+		},
+		{
+			"url": "assets/r1.png",
+			"type": "image",
+			"name": "r1_png"
+		},
+		{
+			"url": "assets/r2.png",
+			"type": "image",
+			"name": "r2_png"
+		},
+		{
+			"url": "assets/r3.png",
+			"type": "image",
+			"name": "r3_png"
+		},
+		{
+			"url": "assets/r4.png",
+			"type": "image",
+			"name": "r4_png"
+		},
+		{
+			"url": "assets/r5.png",
+			"type": "image",
+			"name": "r5_png"
+		},
+		{
+			"url": "assets/r6.png",
+			"type": "image",
+			"name": "r6_png"
+		},
+		{
+			"url": "assets/u1.png",
+			"type": "image",
+			"name": "u1_png"
+		},
+		{
+			"url": "assets/u2.png",
+			"type": "image",
+			"name": "u2_png"
+		},
+		{
+			"url": "assets/u3.png",
+			"type": "image",
+			"name": "u3_png"
+		},
+		{
+			"url": "assets/u4.png",
+			"type": "image",
+			"name": "u4_png"
+		},
+		{
+			"url": "assets/u5.png",
+			"type": "image",
+			"name": "u5_png"
+		},
+		{
+			"url": "assets/u6.png",
+			"type": "image",
+			"name": "u6_png"
+		},
+		{
+			"url": "assets/d1.png",
+			"type": "image",
+			"name": "d1_png"
+		},
+		{
+			"url": "assets/d2.png",
+			"type": "image",
+			"name": "d2_png"
+		},
+		{
+			"url": "assets/d3.png",
+			"type": "image",
+			"name": "d3_png"
+		},
+		{
+			"url": "assets/grass.png",
+			"type": "image",
+			"name": "grass_png"
+		},
+		{
+			"url": "assets/ground.jpg",
+			"type": "image",
+			"name": "ground_jpg"
+		},
+		{
+			"url": "assets/water.png",
+			"type": "image",
+			"name": "water_png"
+		},
+		{
+			"url": "assets/wall.png",
+			"type": "image",
+			"name": "wall_png"
+		}
+	]
+}
